@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm **Ubiratan Soares**, a Software Engineer with more than 10 years with experience. I was born and raised in São Paulo, Brazil and nowadays I live in Barcelona, Spain.
+I'm **Ubiratan Soares**, a Software Engineer with more than 10 years of experience. I was born and raised in São Paulo, Brazil and nowadays I live in Barcelona, Spain.
 
 - I have a Bachelor degree in Computer Science ([ICMC/USP](https://www.icmc.usp.br/), Brazil)
 - My favorite programming languages nowadays are **Kotlin**, **Python** and **Rust**
