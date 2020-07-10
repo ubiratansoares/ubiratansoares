@@ -8,13 +8,13 @@
 
 ## About me
 
-I'm **Ubiratan Soares**, a Software Engineer with more than 10 years with experience with Mobile and Web development. I was born and raised in São Paulo, Brazil and nowadays I live in Barcelona, Spain.
+I'm **Ubiratan Soares**, a Software Engineer with more than 10 years with experience. I was born and raised in São Paulo, Brazil and nowadays I live in Barcelona, Spain.
 
 - I have a Bachelor degree in Computer Science ([ICMC/USP](https://www.icmc.usp.br/), Brazil)
 - My favorite programming languages nowadays are **Kotlin**, **Python** and **Rust**
-- My current interests are **Serverless apps**, **Build automation** and **Developer Tools**
+- My current interests are **Developer Productivity**, **Developer Tools**, **Build Engineering** and **Serverless apps**
 - My open-source work lives at [Dotanuki Labs](https://github.com/dotanuki-labs)
-- My favorite book about programming and career in software is [Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+- My favorite book about programming and career in Software is [The Pragmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 - My heroes in Computer Science are [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky), [Barbara Liskov](https://en.wikipedia.org/wiki/Barbara_Liskov) and [Edsger Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 - My heroes in the Software Industry are [Joel Amstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)), [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) and [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
 
