@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Dotanuki%20Labs-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dotanuki-labs)](https://github.com/dotanuki-labs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ubiratanfsoares/)](https://www.linkedin.com/in/ubiratanfsoares/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/lgdbittencourt)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ubiratanfsoares)](https://twitter.com/ubiratanfsoares)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/ubiratansoares)](https://t.me/ubiratansoares)
 [![GDE Badge](https://img.shields.io/badge/Google%20Developer%20Experts-green?style=flat-square&logo=android&logoColor=white&link=https://t.me/ubiratansoares)](https://developers.google.com/community/experts/directory/profile/profile-ubiratan_soares)
 
